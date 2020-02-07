@@ -1,6 +1,6 @@
 
+.idea/DL_JS_prog.iml
+
 .idea/
 
-node_modules/
-
-package-lock.json
+lesson_5/node_modules/
