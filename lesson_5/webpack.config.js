@@ -12,7 +12,7 @@ let conf = {
         overlay: true,
         proxy: {
             '/js-frontend-api/**': {
-                target: 'http://localhost/',
+                target: 'http://faceprog.ru/',
                 secure: false,
                 changeOrigin: true
             }
